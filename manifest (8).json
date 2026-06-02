@@ -1,0 +1,19 @@
+{
+  "name": "نظام مراقبة المناديب - الأثر الذهبي",
+  "short_name": "مراقبة المناديب",
+  "description": "نظام مراقبة أداء مناديب المبيعات وتحليل المسارات والتصنيفات",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/sales-monitor/index.html",
+  "scope": "/sales-monitor/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#7a0019",
+  "theme_color": "#7a0019",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "/sales-monitor/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/sales-monitor/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/sales-monitor/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
